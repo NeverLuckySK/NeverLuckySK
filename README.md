@@ -14,11 +14,11 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-- 🔭 I’m currently working on myself to bring something to this world.
-- 🌱 I’m currently learning Reshetnev Siberian State University of Science and Technology in the Krasnoyarsk.
-- 👯 I’m looking to collaborate on GameDev.
-- 🤔 I’m looking for help with all of GameDev ares. I am very interesting in 3d modelling and programming. I hope in a future I will be 3D Generalist and software engineer.
-- 💬 Ask me about what you want,auf☝🏾
-- 📫 How to reach me: neverluckysk@gmail.ru, mancorn@mail.ru. 
+- 🔭 I’m currently working on personal projects to contribute to the tech world.
+- 🌱 I’m currently studying Software Engineering at Reshetnev Siberian State University of Science and Technology in Krasnoyarsk.
+- 👯 I’m looking to collaborate on GameDev projects.
+- 🤔 I’m interested in all areas of GameDev, particularly 3D modeling and programming. I aspire to become a 3D Generalist and Software Engineer.
+- 💬 Feel free to ask me about my projects or interests!
+- 📫 How to reach me: [neverluckysk@gmail.ru](mailto:neverluckysk@gmail.ru) or [mancorn@mail.ru](mailto:mancorn@mail.ru).. 
 - 😄 Pronouns: male (he/him)
-- ⚡ Fun fact: minorities are taking over the world. 
+- ⚡ Fun fact: minorities are taking over the world.
